@@ -16,6 +16,10 @@ class ViewController: UIViewController {
     }
     
     //Add comments
+    
+    func featureX() {
+        println("Hello World")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
