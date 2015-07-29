@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     }
     
     //Add comments
-    
+    //Legal thingo
     func featureX() {
         println("Hello World")
     }
