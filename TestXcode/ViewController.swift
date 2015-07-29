@@ -20,6 +20,10 @@ class ViewController: UIViewController {
     func featureX() {
         println("Hello World")
     }
+    //finished feature-Y
+    func featureY() {
+        println("featureY")
+    }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
