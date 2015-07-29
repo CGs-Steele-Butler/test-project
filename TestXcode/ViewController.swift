@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
     
+    //Bug Fix
     //Add comments
     //Legal thingo
     func featureX() {
